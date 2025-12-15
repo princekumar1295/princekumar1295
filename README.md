@@ -1,5 +1,5 @@
 # 💫 About Me:
-PRINCE KUMAR KAPRI<br>B.Tech – Computer Science & Engineering (2022–2026)<br><br>Phone: +91 6299908810<br><br>Email: prince.kumar.cs.2022@mitmeerut.ac.in<br><br>GitHub: github.com/princekumar1295Technical 
+Motivated and detail-oriented Computer Science undergraduate with a strong foundation in programming, data structures, algorithms, and full-stack web development. Hands-on experience using Python, JavaScript, React, Node.js, and backend frameworks through academic and personal projects. Eager to contribute to real-world software development and grow in a collaborative, agile environment.
 
 
 ## 🌐 Socials:
