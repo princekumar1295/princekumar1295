@@ -1,6 +1,5 @@
 # 💫 About Me:
-PRINCE KUMAR KAPRI<br>B.Tech – Computer Science & Engineering (2022–2026)<br><br>Phone: +91 6299908810<br><br>Email: prince.kumar.cs.2022@mitmeerut.ac.in<br><br>Location: Meerut, Uttar Pradesh, India – 250103<br><br>GitHub: github.com/princekumar1295Technical 
-Achievements<br>First Prize – Hackathon Frenzy 2025
+PRINCE KUMAR KAPRI<br>B.Tech – Computer Science & Engineering (2022–2026)<br><br>Phone: +91 6299908810<br><br>Email: prince.kumar.cs.2022@mitmeerut.ac.in<br><br>GitHub: github.com/princekumar1295Technical 
 
 
 ## 🌐 Socials:
