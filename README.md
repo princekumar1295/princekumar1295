@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/princekumar1295">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=100&lines=Prince+Kumar;AI+Researcher+%7C+Robotics+Engineer;Embodied+AI+%26+Autonomous+Systems;Computer+Vision+%7C+Edge+AI;Always+Learning+%F0%9F%93%9A" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=100&lines=Prince+Kumar+Kapri;AI+Researcher+%7C+Robotics+Engineer;Embodied+AI+%26+Autonomous+Systems;Computer+Vision+%7C+Edge+AI;Always+Learning+%F0%9F%93%9A" />
   </a>
 
   <div>
@@ -13,7 +13,7 @@
 
 ## 🧠 Research Identity
 
-Emerging researcher in embodied Artificial Intelligence focused on integrating multimodal perception, autonomous decision-making, and edge deployment for scalable assistive and intelligent robotic systems. My work emphasizes system-level design, embedded optimization, and real-world validation of autonomous robotic architectures. :contentReference[oaicite:0]{index=0}
+Emerging researcher in embodied Artificial Intelligence focused on integrating multimodal perception, autonomous decision-making, and edge deployment for scalable assistive and intelligent robotic systems. My work emphasizes system-level design, embedded optimization, and real-world validation of autonomous robotic architectures. 
 
 
 
