@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated and detail-oriented Computer Science undergraduate with a strong foundation in programming, data structures, algorithms, and full-stack web development. Hands-on experience using Python, JavaScript, React, Node.js, and backend frameworks through academic and personal projects. Eager to contribute to real-world software development and grow in a collaborative, agile environment.
+Strong foundation in programming, data structures, and algorithms with hands-on experience in Python. Skilled in problem-solving and analytical thinking through projects. Focused on AI, machine learning, and robotics, with an interest in building intelligent and autonomous systems
 
 
 ## 🌐 Socials:
