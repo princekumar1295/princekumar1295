@@ -15,17 +15,7 @@
 
 Emerging researcher in embodied Artificial Intelligence focused on integrating multimodal perception, autonomous decision-making, and edge deployment for scalable assistive and intelligent robotic systems. My work emphasizes system-level design, embedded optimization, and real-world validation of autonomous robotic architectures. :contentReference[oaicite:0]{index=0}
 
----
 
-## 🎓 Education
-
-- **B.Tech in Computer Science and Engineering** (2022–2026)  
-  Meerut Institute of Technology, India — **74%**
-
-- **Senior Secondary (BSEB)** — 67%  
-- **Secondary (BSEB)** — 72%  
-
----
 
 ## 🔬 Core Research Areas
 
